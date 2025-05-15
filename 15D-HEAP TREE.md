@@ -1,4 +1,4 @@
-# Experiment No: 9D - Python Program to Build and Analyze a Heap Tree
+# Experiment No: 15D - Python Program to Build and Analyze a Heap Tree
 
 ## AIM  
 To write a Python program that builds a binary tree from a list and checks whether the tree is a max-heap and a complete tree, and also prints the height of the tree.
