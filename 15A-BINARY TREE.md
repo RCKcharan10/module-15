@@ -1,4 +1,4 @@
-# Experiment No: 9A - Python Program to Print a Binary Tree Consisting of Root, Left, and Right Nodes
+# Experiment No: 15A - Python Program to Print a Binary Tree Consisting of Root, Left, and Right Nodes
 
 ## AIM  
 To write a Python program that prints a binary tree consisting of a root, left, and right node.
