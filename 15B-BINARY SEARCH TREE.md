@@ -1,4 +1,4 @@
-# Experiment No: 9B - Python Program to Build a Binary Search Tree Using a Built-in Function
+# Experiment No: 15B - Python Program to Build a Binary Search Tree Using a Built-in Function
 
 ## AIM  
 To write a Python program to build a binary search tree (BST) using a built-in function and perform postorder traversal, print the left subtree, and verify whether the tree is a Binary Search Tree.
